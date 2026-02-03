@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm <Your Name>
+# Hi, I'm Ricardo 👋
 
 📍 **Seattle** | 🎚️ **Audio DSP Developer & Ontological Systems Engineer** | 🚀 **Swordfish Audio Founder**
 
