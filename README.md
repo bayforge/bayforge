@@ -7,7 +7,6 @@
 <!-- Skill icons or badges (optional) -->
 <!-- Example with simple badges (replace links/text as needed) -->
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-000?logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
