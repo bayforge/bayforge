@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=white)
 
-> Deep in ship mode, building DSP audio plugins and clean, ontology-driven data products at ludicrous speed, turning messy real-world data into something you can actually navigate and use.
+> Shipping end-to-end system, building DSP audio plugins and clean, ontology-driven data products at ludicrous speed, turning messy real-world data into something you can actually navigate and use.
 
 ## Current Projects
 - **Project A**: what it does in 8–12 words. (link)
