@@ -14,7 +14,7 @@
 > Shipping end-to-end system, building DSP audio plugins and clean, ontology-driven data products at ludicrous speed, turning messy real-world data into something you can actually navigate and use.
 
 ## Current Projects
-- **Afterlife**: A comprehensive digital legacy management platform that helps users preserve, organize, and securely manage their digital assets with client-side encryption, legacy planning, and memorial spaces. ([GitHub](https://github.com/bayforge/show-afterlife))
+- **[Afterlife](https://github.com/bayforge/show-afterlife)**: A comprehensive digital legacy management platform that helps users preserve, organize, and securely manage their digital assets with client-side encryption, legacy planning, and memorial spaces.
 - **Project B**: outcome-focused description. (link)
 - **Project C**: what you’re proud of here. (link)
 
