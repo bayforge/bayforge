@@ -6,11 +6,15 @@
 
 <!-- Skill icons or badges (optional) -->
 <!-- Example with simple badges (replace links/text as needed) -->
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-000?logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=white)
 
-> One sentence: what you build + for who + why it matters.
+> Deep in ship mode, building DSP audio plugins and clean, ontology-driven data products at ludicrous speed, turning messy real-world data into something you can actually navigate and use.
 
 ## Current Projects
 - **Project A**: what it does in 8–12 words. (link)
