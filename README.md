@@ -2,7 +2,7 @@
 
 # Hi, I'm <Your Name>
 
-<City/Region> | <Role/Focus> | <1 credibility marker>
+📍 **Seattle** | 🎚️ **Audio DSP Developer & Ontological Systems Engineer** | 🚀 **Swordfish Audio Founder**
 
 <!-- Skill icons or badges (optional) -->
 <!-- Example with simple badges (replace links/text as needed) -->
