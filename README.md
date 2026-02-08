@@ -15,7 +15,7 @@
 
 ## Current Projects
 - **[Afterlife](https://github.com/bayforge/show-afterlife)**: A comprehensive digital legacy management platform that helps users preserve, organize, and securely manage their digital assets with client-side encryption, legacy planning, and memorial spaces.
-- **[DOTS]()**: political relationship intelligence web app that visualizes and analyzes connections between legislators, bills, propositions, lobbying entities, PACs, and funding sources using a Neo4j graph database for entity relationships, with geospatial mapping (MapLibre) and interactive graph visualization. The system ingests real-world data from Congress.gov, FEC, and lobbying registries to reveal influence, money flow, and power structures through explainable graph traversals rather than opaque scoring algorithms.
+- **[DOTS](https://github.com/bayforge/show-dots)**: political relationship intelligence web app that visualizes and analyzes connections between legislators, bills, propositions, lobbying entities, PACs, and funding sources using a Neo4j graph database for entity relationships, with geospatial mapping (MapLibre) and interactive graph visualization. The system ingests real-world data from Congress.gov, FEC, and lobbying registries to reveal influence, money flow, and power structures through explainable graph traversals rather than opaque scoring algorithms.
 - **Project C**: what you’re proud of here. (link)
 
 ## Highlights
