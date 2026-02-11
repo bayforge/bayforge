@@ -19,6 +19,7 @@
 - **[Riptide](https://www.swordfishaudio.com/support)**: professional audio distortion plugin with soft/hard clipping, foldback and bit glitch algorithms, bit crushing, sample rate reduction, resonant filters, oversampling, level metering, preset management, and an integrated licensing system that connects to the Swordfish Audio website for verification with trial and demo mode support.
 - **[Swordfish Audio](https://www.swordfishaudio.com)**: full-featured e-commerce platform built with React, TypeScript, and Vite that markets and sells the Riptide audio plugin. The site includes a modern UI powered by shadcn-ui and Tailwind CSS, with key features including Stripe payment processing, automated license key generation and verification via API endpoints, interactive audio demos using WaveSurfer.js to showcase dry/wet comparisons, shopping cart functionality, and administrative dashboards for license analytics and free license generation. The backend uses Cloudflare Workers (functions/api/) for serverless API endpoints handling checkout, webhooks, downloads, and license management.
 
+<!--
 ## Highlights
 - Built: <thing> (metric/result if you have one)
 - Shipped: <thing> (users/revenue/perf improvement)
@@ -28,7 +29,7 @@
 - Portfolio: <link>
 - LinkedIn: <link>
 - Resume: <link>
-
+-->
 <!--
 **bayforge/bayforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
